@@ -1,0 +1,69 @@
+DECLARATIVE COMPUTE - LICENSE AGREEMENT
+========================================
+
+Version: 1.0.0
+Date: 2025-01-16
+
+REGULAR LICENSE
+---------------
+
+This Regular License grants you, the purchaser, an ongoing, non-exclusive, 
+worldwide license to use the digital work (Item).
+
+You are licensed to use the Item to create one single End Product for yourself 
+or for one client (a "single application"), and the End Product can be 
+distributed for Free.
+
+What you CAN do with the Item under this license:
+
+1. You may use the Item to create one End Product for personal or commercial use
+2. You may modify or manipulate the Item
+3. You may combine the Item with other works and make a derivative work from it
+4. The End Product may be distributed for Free
+
+What you CANNOT do with the Item under this license:
+
+1. You cannot re-distribute the Item as stock, in a tool or template, or with 
+   source files
+2. You cannot do the same thing as the original Item does
+3. You must not permit end users of the End Product to extract the Item and 
+   use it separately from the End Product
+4. You cannot use the Item in any application allowing end users to customize 
+   a digital product to their specific needs
+
+EXTENDED LICENSE
+----------------
+
+The Extended License grants you the same rights as the Regular License, plus:
+
+1. You may use the Item to create multiple End Products
+2. The End Product may be sold or distributed for a fee
+3. You may use the Item in a SaaS (Software as a Service) application
+4. You may use the Item to create End Products for multiple clients
+
+BOTH LICENSES INCLUDE:
+
+- Source code access
+- Free lifetime updates
+- Basic email support
+- Use in commercial projects
+
+INTELLECTUAL PROPERTY:
+
+The Item remains the intellectual property of the author. This license grants 
+you rights to use the Item, not ownership of it.
+
+WARRANTY:
+
+The Item is provided "as is" without warranty of any kind, either expressed or 
+implied. The author shall not be liable for any damages arising from the use 
+of this Item.
+
+SUPPORT:
+
+Basic email support is provided for bug reports and usage questions. Response 
+time is typically 24-48 hours on business days.
+
+For questions about this license, contact: support@declarativecompute.com
+
+© 2025 Anzize Daouda. All rights reserved.
